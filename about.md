@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
 
 
-### power by
+### About
 
-@EC-617
+power by @EC-617
 
 ### Information
 
