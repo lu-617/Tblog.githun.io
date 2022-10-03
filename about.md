@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
+***
 
-
-
+***
 
 ### Maker
 
@@ -19,3 +19,7 @@ just love touching fish
 ### Contact
 
 [click here to send e-mail](mailto:lu.617@outlook.com)
+
+***
+
+***
