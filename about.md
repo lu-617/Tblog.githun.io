@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+某摸鱼佬
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+大概正在学一些有的没的乱七八糟的东西
 
 ### Contact me
 
-[lu.617@outlook.com](mailto:check here and contact me)
+[点击这里发送邮件](mailto:lu.617@outlook.com)
