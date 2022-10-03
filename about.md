@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-power by @EC-617
+### power by
 
-## Information
+@EC-617
+
+### Information
 
 just love touching fish
 
-## Contact
+### Contact
 
 [click here to send e-mail](mailto:lu.617@outlook.com)
