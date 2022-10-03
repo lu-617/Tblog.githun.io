@@ -1,2 +1,2 @@
-this project is power by @jekyllrb, 
-please click https://github.com/barryclark/jekyll-now to continues
+this project is power by @jekyllrb, <br>
+please click https://github.com/barryclark/jekyll-now to continues. <br>
